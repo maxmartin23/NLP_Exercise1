@@ -1,3 +1,5 @@
-# exercise1
+# Exercise1
 Natural language processing and recommender systems
-Exercise #1: Acossiation rules
+
+
+# Exercise #1: Acossiation rules
