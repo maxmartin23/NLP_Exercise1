@@ -2,7 +2,7 @@
 Natural language processing and recommender systems
 
 
-# Association rules
+# Association Rules
 
 Build a small recommender app to recommend the top ingredients used
 in a certain cuisine type, for example, Italian, Greek cuisines...etc.
