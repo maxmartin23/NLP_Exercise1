@@ -7,5 +7,5 @@ Natural language processing and recommender systems
 Build a small recommender app to recommend the top ingredients used
 in a certain cuisine type, for example, Italian, Greek cuisines...etc.
 You will base your recommendations after mining recipe data posted on the web. The data has already
-been collected and available in the attached “recipes.Json” file to this assignment. You will be using the
+been collected and available in the attached “recipes.Json”. You will be using the
 apriori algorithm to come up with the rules.
